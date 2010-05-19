@@ -1,0 +1,49 @@
+body{
+	background-color:pink;
+
+}
+h1{
+	color:#FFF;
+}
+
+#container {
+	margin: 50px auto;
+	width: 600px;
+}
+
+#wrap{
+	padding:30px;
+	position:relative;
+	background:rgba(255,255,255,.3);
+}
+
+#wrap-inner{
+	padding:30px;
+	background:#EBE4DA;
+}
+
+#content{
+	margin-top:250px;
+}
+
+#header{
+	color:#FFF;
+	position:absolute;
+	text-align:center;
+	left:0;
+	top:150px;
+	background-color:black;
+	width:100%;
+	z-index:10;
+	
+}
+#greeting{
+	top:300px;
+	width:400px;
+	color: black;
+}
+
+#body{
+	width:400px;
+	color:black;
+}
